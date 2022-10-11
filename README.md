@@ -1,4 +1,4 @@
-<img src="https://github.com/MielR/MielR/blob/main/git%20banner.PNG"></img>
+<img src="https://github.com/MielR/MielR/blob/main/banner.MielR.webp"></img>
 <h1 align="center">Hi 👋, I'm Michel Elyllot</h1>
 <h3 align="center">A passionate web developer back-end : PHP (Symfony) NodeJs( ExpressJs) front-end : HTML , CSS , javascript , MySql (Bootstrap, jquery, React.js)</h3>
 <img align="right" alt="Coding" width="400"  src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format" ></img>
